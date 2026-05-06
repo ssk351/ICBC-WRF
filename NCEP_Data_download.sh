@@ -1,3 +1,9 @@
+#############################
+###Assume your pc/hpc has bash and curl
+##@Author : Saikrishna
+##@Email : sivasai351@gmail.com
+## To download NOMADS data
+#############################
 #!/usr/bin/env csh
 #
 # c-shell script to download selected files from gdex.ucar.edu using Wget
